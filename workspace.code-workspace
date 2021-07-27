@@ -1,0 +1,25 @@
+{
+  "folders": [
+	{
+		"path": "..\\..\\..\\..\\JS\\momentium"
+	},
+	{
+		"path": "..\\.."
+	},
+	{
+		"path": "..\\..\\..\\..\\JS\\random"
+	},
+	{
+		"path": "..\\..\\..\\..\\..\\maven"
+	},
+	{
+		"path": "..\\..\\..\\clone\\prj1"
+	},
+	{
+		"path": "..\\..\\..\\..\\servletandjsp\\workspace\\spring"
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "kokoa clone"
+  }
+}
